@@ -1,22 +1,14 @@
-# This is an h1 tag
-## This is an h2 tag
-### This is an h3 tag
+Мы на столько крутые, что уже успели поработать со следующими команиями:
 
-*This text will be italic*
-_This will also be italic_
+1. ООО «Рога и копыта»
+1. Издательство «Читый лист»
+1. Космопорт «Черезтерновый Кзвёздный»
+1. Дизайн-студия имени Слишком Известного Персонажа
+1. Ниже пример кода из нашего приложения:
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-
-
-[Моя инста](https://instagram.com/koroset)# TEST
-# FOR SECOND COMMIT
+```
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
+```
